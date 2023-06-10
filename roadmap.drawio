@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-10T15:17:19.128Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="SA_3Lzrfggh6nc1iBx1c" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-10T20:39:18.270Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="WHPJ-_OiTXELd81BH23W" version="21.3.8" type="github">
   <diagram name="Page-1" id="aSMqkt42Gs_4Adb-Ifj2">
-    <mxGraphModel dx="928" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2243" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,14 +68,80 @@
         <mxCell id="REgde3PiPl2RJDlb76gh-16" value="Advanced python&lt;br&gt;(oop, decorators, ...)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="590" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="REgde3PiPl2RJDlb76gh-19" target="REgde3PiPl2RJDlb76gh-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="REgde3PiPl2RJDlb76gh-19" value="AI Programming" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="REgde3PiPl2RJDlb76gh-20" target="REgde3PiPl2RJDlb76gh-42">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="REgde3PiPl2RJDlb76gh-20" value="Mathematics" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="REgde3PiPl2RJDlb76gh-23" value="Know data sources" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-32" value="Numpy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-33" value="Pandas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-34" value="Matplotlib" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="REgde3PiPl2RJDlb76gh-35" target="REgde3PiPl2RJDlb76gh-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="REgde3PiPl2RJDlb76gh-35" target="REgde3PiPl2RJDlb76gh-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="REgde3PiPl2RJDlb76gh-35" target="REgde3PiPl2RJDlb76gh-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-35" value="Arrays, Series and Data Frames" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="REgde3PiPl2RJDlb76gh-42" target="REgde3PiPl2RJDlb76gh-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="REgde3PiPl2RJDlb76gh-42" target="REgde3PiPl2RJDlb76gh-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="REgde3PiPl2RJDlb76gh-42" target="REgde3PiPl2RJDlb76gh-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="REgde3PiPl2RJDlb76gh-42" target="REgde3PiPl2RJDlb76gh-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="REgde3PiPl2RJDlb76gh-42" target="REgde3PiPl2RJDlb76gh-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-42" value="Basics" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-43" value="Machine Learning" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-44" value="Deep Learning" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-46" value="Linear Algebra" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-48" value="Statistics" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-50" value="Metrics" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-52" value="Calculus" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-54" value="Information Theory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
