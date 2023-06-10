@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-10T21:47:24.534Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="gpUe_RtuKOdr1IozbyrP" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-10T21:51:10.408Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="FwrE3HohXft-yPfC9tV0" version="21.3.8" type="github">
   <diagram name="Page-1" id="aSMqkt42Gs_4Adb-Ifj2">
-    <mxGraphModel dx="2161" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2875" dy="1120" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -269,8 +269,23 @@
         <mxCell id="REgde3PiPl2RJDlb76gh-74" value="Deal with Overfit and Underfit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="1940" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="REgde3PiPl2RJDlb76gh-77" target="REgde3PiPl2RJDlb76gh-160">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="REgde3PiPl2RJDlb76gh-77" target="REgde3PiPl2RJDlb76gh-165">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="REgde3PiPl2RJDlb76gh-77" target="REgde3PiPl2RJDlb76gh-162">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="REgde3PiPl2RJDlb76gh-77" target="REgde3PiPl2RJDlb76gh-163">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="REgde3PiPl2RJDlb76gh-77" target="REgde3PiPl2RJDlb76gh-164">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="REgde3PiPl2RJDlb76gh-77" value="Different Optimizers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="2040" width="120" height="60" as="geometry" />
+          <mxGeometry x="960" y="2840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="REgde3PiPl2RJDlb76gh-79" value="Fully Connected" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1240" y="1640" width="120" height="60" as="geometry" />
@@ -440,6 +455,21 @@
         </mxCell>
         <mxCell id="REgde3PiPl2RJDlb76gh-158" value="Local Outlier Factor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1800" y="1570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-160" value="SGD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="2840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-162" value="RMS Prop" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="3000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-163" value="Adam" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="3080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-164" value="AdaGrad" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="3160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-165" value="SGD with Momentum" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="2920" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
