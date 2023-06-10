@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-10T21:27:23.124Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="CyB7vcMGzCmHwuu0ed0o" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-10T21:47:24.534Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="gpUe_RtuKOdr1IozbyrP" version="21.3.8" type="github">
   <diagram name="Page-1" id="aSMqkt42Gs_4Adb-Ifj2">
-    <mxGraphModel dx="2564" dy="948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2161" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -131,6 +131,12 @@
         <mxCell id="REgde3PiPl2RJDlb76gh-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="REgde3PiPl2RJDlb76gh-43" target="REgde3PiPl2RJDlb76gh-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="REgde3PiPl2RJDlb76gh-43" target="REgde3PiPl2RJDlb76gh-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="REgde3PiPl2RJDlb76gh-43" target="REgde3PiPl2RJDlb76gh-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="REgde3PiPl2RJDlb76gh-43" value="Machine Learning" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
@@ -183,13 +189,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="REgde3PiPl2RJDlb76gh-57" value="Supervised&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="1200" width="120" height="60" as="geometry" />
+          <mxGeometry x="2080" y="1200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="REgde3PiPl2RJDlb76gh-58" target="REgde3PiPl2RJDlb76gh-142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="REgde3PiPl2RJDlb76gh-58" target="REgde3PiPl2RJDlb76gh-148">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="REgde3PiPl2RJDlb76gh-58" target="REgde3PiPl2RJDlb76gh-150">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="REgde3PiPl2RJDlb76gh-58" value="Unsupervised" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="1300" width="120" height="60" as="geometry" />
+          <mxGeometry x="1440" y="1330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="REgde3PiPl2RJDlb76gh-59" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="1400" width="120" height="60" as="geometry" />
+        <mxCell id="REgde3PiPl2RJDlb76gh-59" value="Reinforcement Learning" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="1480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="REgde3PiPl2RJDlb76gh-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="REgde3PiPl2RJDlb76gh-60" target="REgde3PiPl2RJDlb76gh-120">
           <mxGeometry relative="1" as="geometry" />
@@ -204,37 +219,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="REgde3PiPl2RJDlb76gh-60" value="Regression" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="1200" width="120" height="60" as="geometry" />
+          <mxGeometry x="2280" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="REgde3PiPl2RJDlb76gh-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="REgde3PiPl2RJDlb76gh-61" target="REgde3PiPl2RJDlb76gh-128">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="REgde3PiPl2RJDlb76gh-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="REgde3PiPl2RJDlb76gh-61" target="REgde3PiPl2RJDlb76gh-130">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1790" y="1590" />
-              <mxPoint x="1790" y="1700" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="REgde3PiPl2RJDlb76gh-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="REgde3PiPl2RJDlb76gh-61" target="REgde3PiPl2RJDlb76gh-130">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="REgde3PiPl2RJDlb76gh-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="REgde3PiPl2RJDlb76gh-61" target="REgde3PiPl2RJDlb76gh-131">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1790" y="1590" />
-              <mxPoint x="1790" y="1810" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="REgde3PiPl2RJDlb76gh-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="REgde3PiPl2RJDlb76gh-61" target="REgde3PiPl2RJDlb76gh-131">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="REgde3PiPl2RJDlb76gh-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="REgde3PiPl2RJDlb76gh-61" target="REgde3PiPl2RJDlb76gh-134">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1790" y="1590" />
-              <mxPoint x="1790" y="1920" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="REgde3PiPl2RJDlb76gh-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="REgde3PiPl2RJDlb76gh-61" target="REgde3PiPl2RJDlb76gh-134">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="REgde3PiPl2RJDlb76gh-61" value="Classification" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="1560" width="120" height="60" as="geometry" />
+          <mxGeometry x="2280" y="1590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="REgde3PiPl2RJDlb76gh-63" value="Basics and Calculus" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="1340" width="120" height="60" as="geometry" />
@@ -363,28 +363,83 @@
           <mxGeometry x="1440" y="2760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="REgde3PiPl2RJDlb76gh-120" value="Linear Regression" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="1200" width="120" height="60" as="geometry" />
+          <mxGeometry x="2480" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="REgde3PiPl2RJDlb76gh-121" value="SVR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="1300" width="120" height="60" as="geometry" />
+          <mxGeometry x="2480" y="1300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="REgde3PiPl2RJDlb76gh-122" value="Neural Networks" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="1400" width="120" height="60" as="geometry" />
+          <mxGeometry x="2480" y="1400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="REgde3PiPl2RJDlb76gh-126" value="Tree-Based Algorithms" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="1500" width="120" height="60" as="geometry" />
+          <mxGeometry x="2480" y="1500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="REgde3PiPl2RJDlb76gh-128" value="KNN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1920" y="1560" width="120" height="60" as="geometry" />
+          <mxGeometry x="2480" y="1590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="REgde3PiPl2RJDlb76gh-130" value="Logistic Regression" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1920" y="1670" width="120" height="60" as="geometry" />
+          <mxGeometry x="2480" y="1700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="REgde3PiPl2RJDlb76gh-131" value="SVM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1920" y="1780" width="120" height="60" as="geometry" />
+          <mxGeometry x="2480" y="1810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="REgde3PiPl2RJDlb76gh-134" value="Tree-Based Algorithms" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1920" y="1890" width="120" height="60" as="geometry" />
+          <mxGeometry x="2480" y="1920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="REgde3PiPl2RJDlb76gh-142" target="REgde3PiPl2RJDlb76gh-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="REgde3PiPl2RJDlb76gh-142" target="REgde3PiPl2RJDlb76gh-145">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2000" y="1360" />
+              <mxPoint x="2000" y="1440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="REgde3PiPl2RJDlb76gh-142" target="REgde3PiPl2RJDlb76gh-154">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2000" y="1360" />
+              <mxPoint x="2000" y="1520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-142" value="Clustering" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="1330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-144" value="KMeans" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2050" y="1330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-145" value="Density Based Algorithms" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2050" y="1410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="REgde3PiPl2RJDlb76gh-148" target="REgde3PiPl2RJDlb76gh-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-148" value="Dimensonality Reduction" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="1410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="REgde3PiPl2RJDlb76gh-150" target="REgde3PiPl2RJDlb76gh-156">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="REgde3PiPl2RJDlb76gh-150" target="REgde3PiPl2RJDlb76gh-158">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-150" value="Anomaly Detection" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="1490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-152" value="PCA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="1410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-154" value="Hierarchical Clustering" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2050" y="1490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-156" value="Isolation Forest" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="1490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-158" value="Local Outlier Factor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="1570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
