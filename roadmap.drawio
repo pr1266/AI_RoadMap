@@ -1,9 +1,92 @@
-<mxfile host="app.diagrams.net" modified="2023-06-10T14:21:16.359Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.3.8" etag="ZxMUXgOfD_OF0a11ZAx5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-10T15:05:20.634Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="LhDYx9AbA7_0xMBwVS30" version="21.3.8" type="github">
   <diagram name="Page-1" id="aSMqkt42Gs_4Adb-Ifj2">
-    <mxGraphModel>
+    <mxGraphModel dx="928" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="REgde3PiPl2RJDlb76gh-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="REgde3PiPl2RJDlb76gh-1" target="REgde3PiPl2RJDlb76gh-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-1" value="start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="REgde3PiPl2RJDlb76gh-3" target="REgde3PiPl2RJDlb76gh-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="543" y="200" />
+              <mxPoint x="543" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="REgde3PiPl2RJDlb76gh-3" target="REgde3PiPl2RJDlb76gh-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="543" y="200" />
+              <mxPoint x="543" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="REgde3PiPl2RJDlb76gh-3" target="REgde3PiPl2RJDlb76gh-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="REgde3PiPl2RJDlb76gh-3" target="REgde3PiPl2RJDlb76gh-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="REgde3PiPl2RJDlb76gh-3" target="REgde3PiPl2RJDlb76gh-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-3" value="learn what is data?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-4" value="structured vs non-structured" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-5" value="relational vs non-relational data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-6" value="what is an image?&lt;br&gt;(image basics)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="REgde3PiPl2RJDlb76gh-13" target="REgde3PiPl2RJDlb76gh-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="REgde3PiPl2RJDlb76gh-13" target="REgde3PiPl2RJDlb76gh-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="425" y="690" />
+              <mxPoint x="620" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="REgde3PiPl2RJDlb76gh-13" target="REgde3PiPl2RJDlb76gh-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="425" y="690" />
+              <mxPoint x="250" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-13" value="python programming" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="REgde3PiPl2RJDlb76gh-15" target="REgde3PiPl2RJDlb76gh-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-15" value="python basics" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-16" value="Advanced python&lt;br&gt;(oop, decorators, ...)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-19" value="AI Programming" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-20" value="mathematics" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="REgde3PiPl2RJDlb76gh-23" value="know data sources" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
